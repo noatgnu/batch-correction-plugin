@@ -4,6 +4,7 @@ plugin:
   name: "Batch Effect Correction"
   description: "Correct for batch effects in proteomics data"
   version: "1.0.0"
+  repository: "https://github.com/noatgnu/batch-correction-plugin"
   author: "CauldronGO Team"
   category: "preprocessing"
   icon: "sync_alt"
