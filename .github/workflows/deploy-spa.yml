@@ -16,7 +16,7 @@ concurrency:
 
 env:
   CAULDRON_VERSION: "master"
-  WEBR_VERSION: "0.4.2"
+  WEBR_VERSION: "0.5.0"
 
 jobs:
   build-spa:
